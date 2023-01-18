@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 872 793">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: SymbolMT, Symbol;
+        font-size: 534.68px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        fill: #a4c2db;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-2" points="23.22 152.77 564.08 152.77 564.08 165.8 622.58 165.8 622.58 152.77 780.42 152.77 851.5 211.49 853 659.63 23.22 659.63 23.22 152.77"/>
+  <rect class="cls-3" x="740.24" y="608.27" width="86.54" height="32.82"/>
+  <rect class="cls-3" x="740.24" y="553.58" width="86.54" height="32.82"/>
+  <rect class="cls-3" x="740.24" y="498.88" width="86.54" height="32.82"/>
+  <rect class="cls-3" x="740.24" y="444.18" width="86.54" height="32.82"/>
+  <rect class="cls-3" x="740.24" y="389.49" width="86.54" height="32.82"/>
+  <rect class="cls-3" x="740.24" y="334.79" width="86.54" height="32.82"/>
+  <rect class="cls-3" x="740.24" y="280.1" width="86.54" height="32.82"/>
+  <rect class="cls-3" x="740.24" y="225.4" width="86.54" height="32.82"/>
+  <rect class="cls-3" x="691.29" y="175.9" width="86.54" height="32.82"/>
+  <text class="cls-1" transform="translate(50.57 585.52)"><tspan x="0" y="0">SD</tspan></text>
+</svg>
